@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+.back_to_home{
+    margin-top: 10px;
+    padding-top: 10px;
+    text-align: center;
+    color: #8DA2FB;
+}
+.back_to_home:hover{
+    color: #E3A008;
+    cursor: pointer;
+    transform: scale(1.5);
+    overflow: hidden;
+}

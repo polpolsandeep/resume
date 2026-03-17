@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    background:#406ad4;
+    font-family:Arial;
+}
+table,th,td{
+    margin-left: 30px;
+    border: 4.5px solid rgb(24, 20, 20);
+}
+th,td{
+    color: rgb(194, 169, 169);
+}
